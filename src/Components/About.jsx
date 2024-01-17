@@ -17,7 +17,7 @@ import React from "react";
  * freely use on your site.
  */
 import image from "../images/mannu.jpg";
-
+// photo added
 const imageAltText = "purple and blue abstract background";
 
 /**
